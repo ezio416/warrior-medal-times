@@ -18657,6 +18657,7 @@
     "olsKnq_qAghcVAnEkoeUnVHFZei": {
         "authorTime": 7528,
         "campaign": "Training",
+        "campaignIndex": 0,
         "custom": null,
         "name": "Training - 01",
         "reason": null,
@@ -18667,6 +18668,7 @@
     "btmbJWADQOS20ginP9DJ0i8sh3f": {
         "authorTime": 7120,
         "campaign": "Training",
+        "campaignIndex": 1,
         "custom": null,
         "name": "Training - 02",
         "reason": null,
@@ -18677,6 +18679,7 @@
     "lNP8O0sqatiHqecUXrhH65rpQ8a": {
         "authorTime": 8305,
         "campaign": "Training",
+        "campaignIndex": 2,
         "custom": null,
         "name": "Training - 03",
         "reason": null,
@@ -18687,6 +18690,7 @@
     "ga3zTKvSo7yJca60Ry_Z003L031": {
         "authorTime": 7513,
         "campaign": "Training",
+        "campaignIndex": 3,
         "custom": null,
         "name": "Training - 04",
         "reason": null,
@@ -18697,6 +18701,7 @@
     "xSOA3Fs8k3bGNHFQhwskyAjN3Nh": {
         "authorTime": 10546,
         "campaign": "Training",
+        "campaignIndex": 4,
         "custom": null,
         "name": "Training - 05",
         "reason": null,
@@ -18707,6 +18712,7 @@
     "LcBa4OZLeElnJksgbBEpQggitsh": {
         "authorTime": 11307,
         "campaign": "Training",
+        "campaignIndex": 5,
         "custom": null,
         "name": "Training - 06",
         "reason": null,
@@ -18717,6 +18723,7 @@
     "vTqUpE1iiXupNABp5Mfx0YOf33j": {
         "authorTime": 8306,
         "campaign": "Training",
+        "campaignIndex": 6,
         "custom": null,
         "name": "Training - 07",
         "reason": null,
@@ -18727,6 +18734,7 @@
     "OeJCW8sHENIcYscK8o5zVHAxADd": {
         "authorTime": 11958,
         "campaign": "Training",
+        "campaignIndex": 7,
         "custom": null,
         "name": "Training - 08",
         "reason": null,
@@ -18737,6 +18745,7 @@
     "us4gaCDQSxmjVMtp5nYfReezTqh": {
         "authorTime": 12217,
         "campaign": "Training",
+        "campaignIndex": 8,
         "custom": null,
         "name": "Training - 09",
         "reason": null,
@@ -18747,6 +18756,7 @@
     "DyNBxhQ6006991FwvVOaBX9Gcv1": {
         "authorTime": 11750,
         "campaign": "Training",
+        "campaignIndex": 9,
         "custom": null,
         "name": "Training - 10",
         "reason": null,
@@ -18757,6 +18767,7 @@
     "PhJGvGjkCaw299rBhVsEhNJKX1": {
         "authorTime": 5053,
         "campaign": "Training",
+        "campaignIndex": 10,
         "custom": null,
         "name": "Training - 11",
         "reason": null,
@@ -18767,6 +18778,7 @@
     "AJFJd6yABuSMfgJGc8UpWRwUVa0": {
         "authorTime": 11340,
         "campaign": "Training",
+        "campaignIndex": 11,
         "custom": null,
         "name": "Training - 12",
         "reason": null,
@@ -18777,6 +18789,7 @@
     "Nw8BZ8CtZZcFO547WnqdPzp8ydi": {
         "authorTime": 12260,
         "campaign": "Training",
+        "campaignIndex": 12,
         "custom": null,
         "name": "Training - 13",
         "reason": null,
@@ -18787,6 +18800,7 @@
     "eOA1X_xnvKbdDSuyymweOZzSrQ3": {
         "authorTime": 12217,
         "campaign": "Training",
+        "campaignIndex": 13,
         "custom": null,
         "name": "Training - 14",
         "reason": null,
@@ -18797,6 +18811,7 @@
     "0hI2P3y8sENgIkruI_X7s3efES": {
         "authorTime": 13484,
         "campaign": "Training",
+        "campaignIndex": 14,
         "custom": null,
         "name": "Training - 15",
         "reason": null,
@@ -18807,6 +18822,7 @@
     "RlZ2HVhAwN5nD7I1lLciKhPsbb7": {
         "authorTime": 15954,
         "campaign": "Training",
+        "campaignIndex": 15,
         "custom": null,
         "name": "Training - 16",
         "reason": null,
@@ -18817,6 +18833,7 @@
     "EnMnBg3D4Uvb5bz8VLod73z6n47": {
         "authorTime": 18177,
         "campaign": "Training",
+        "campaignIndex": 16,
         "custom": null,
         "name": "Training - 17",
         "reason": null,
@@ -18827,6 +18844,7 @@
     "TVUF91YlnL78BFJwG5ADkNlymqe": {
         "authorTime": 16304,
         "campaign": "Training",
+        "campaignIndex": 17,
         "custom": null,
         "name": "Training - 18",
         "reason": null,
@@ -18837,6 +18855,7 @@
     "SsCdL6nGC__n8UrYnsX8xaqnjCh": {
         "authorTime": 18134,
         "campaign": "Training",
+        "campaignIndex": 18,
         "custom": null,
         "name": "Training - 19",
         "reason": null,
@@ -18847,6 +18866,7 @@
     "Yakz8xDlVWDfVCfXxW2_paCaHil": {
         "authorTime": 26725,
         "campaign": "Training",
+        "campaignIndex": 19,
         "custom": null,
         "name": "Training - 20",
         "reason": null,
@@ -18857,6 +18877,7 @@
     "f1tlOzXvdELVhwrhPpoJDsg9xs8": {
         "authorTime": 16677,
         "campaign": "Training",
+        "campaignIndex": 20,
         "custom": null,
         "name": "Training - 21",
         "reason": null,
@@ -18867,6 +18888,7 @@
     "OHRxJCE_cKxEGOGmhF9z6Hf0YZb": {
         "authorTime": 18542,
         "campaign": "Training",
+        "campaignIndex": 21,
         "custom": null,
         "name": "Training - 22",
         "reason": null,
@@ -18877,6 +18899,7 @@
     "qQEgNKxDhXtTsxWYRW0V4pvpER7": {
         "authorTime": 23153,
         "campaign": "Training",
+        "campaignIndex": 22,
         "custom": null,
         "name": "Training - 23",
         "reason": null,
@@ -18887,6 +18910,7 @@
     "1rwAkLrbqhN47zCsVvJJFJimlcf": {
         "authorTime": 19484,
         "campaign": "Training",
+        "campaignIndex": 23,
         "custom": null,
         "name": "Training - 24",
         "reason": null,
@@ -18897,6 +18921,7 @@
     "TkyKsOEG7gHqVqjjc3A1Qj5rPgi": {
         "authorTime": 36363,
         "campaign": "Training",
+        "campaignIndex": 24,
         "custom": null,
         "name": "Training - 25",
         "reason": null,
@@ -18907,6 +18932,7 @@
     "k45jQI6Y7XrPfe1T0hZhj4pKzY2": {
         "authorTime": 26972,
         "campaign": "Snow Discovery",
+        "campaignIndex": 0,
         "custom": null,
         "name": "SnowIsBack",
         "reason": null,
@@ -18917,6 +18943,7 @@
     "2tqbr2sszmxpZkVweUY5ybPH20b": {
         "authorTime": 21330,
         "campaign": "Snow Discovery",
+        "campaignIndex": 1,
         "custom": null,
         "name": "IcyHills",
         "reason": null,
@@ -18927,6 +18954,7 @@
     "EpaM6deJ3kkRZxD7WWQPrN286qf": {
         "authorTime": 20118,
         "campaign": "Snow Discovery",
+        "campaignIndex": 2,
         "custom": null,
         "name": "SnowGlider",
         "reason": null,
@@ -18937,6 +18965,7 @@
     "Yttz45gxVMc6onGBAz5g_6AheCm": {
         "authorTime": 24435,
         "campaign": "Snow Discovery",
+        "campaignIndex": 3,
         "custom": null,
         "name": "WoodForce",
         "reason": null,
@@ -18947,6 +18976,7 @@
     "GXGM_CSzlbeNBNQwyWyxaPdDr4j": {
         "authorTime": 23098,
         "campaign": "Snow Discovery",
+        "campaignIndex": 4,
         "custom": null,
         "name": "WetWood",
         "reason": null,
@@ -18957,6 +18987,7 @@
     "FIxt7IbWZMzv7IY0AATOiodmiCg": {
         "authorTime": 33220,
         "campaign": "Snow Discovery",
+        "campaignIndex": 5,
         "custom": null,
         "name": "BreakOrSlide",
         "reason": null,
@@ -18967,6 +18998,7 @@
     "pOQOHcjOpsenUrFJeamePYpcP_k": {
         "authorTime": 26498,
         "campaign": "Snow Discovery",
+        "campaignIndex": 6,
         "custom": null,
         "name": "IcySnow",
         "reason": null,
@@ -18977,6 +19009,7 @@
     "x74fKWApIvUvsb5BGnXcb07jjQ2": {
         "authorTime": 19053,
         "campaign": "Snow Discovery",
+        "campaignIndex": 7,
         "custom": null,
         "name": "WoodySlalom",
         "reason": null,
@@ -18987,6 +19020,7 @@
     "GpZh6L4ZPDB7m9Vae8vV37ki7Rl": {
         "authorTime": 26078,
         "campaign": "Snow Discovery",
+        "campaignIndex": 8,
         "custom": null,
         "name": "Temple",
         "reason": null,
@@ -18997,6 +19031,7 @@
     "8lN2wVauP0XdPissI52l5wfvLP6": {
         "authorTime": 33200,
         "campaign": "Snow Discovery",
+        "campaignIndex": 9,
         "custom": null,
         "name": "SlippySnow",
         "reason": null,
@@ -19007,6 +19042,7 @@
     "VIbsBvVrlzF0axbJ2cQpkWQQYBb": {
         "authorTime": 29135,
         "campaign": "Snow Discovery",
+        "campaignIndex": 10,
         "custom": null,
         "name": "Hairpins",
         "reason": null,
@@ -19017,6 +19053,7 @@
     "kacFH41kE5QyUFKzWAkcAB1b4L0": {
         "authorTime": 33000,
         "campaign": "Snow Discovery",
+        "campaignIndex": 11,
         "custom": null,
         "name": "Rock&Revel",
         "reason": null,
@@ -19027,6 +19064,7 @@
     "u5pSmmhKinv4Vh2SUrY5BtvFDK": {
         "authorTime": 26013,
         "campaign": "Snow Discovery",
+        "campaignIndex": 12,
         "custom": null,
         "name": "IAmSpeed",
         "reason": null,
@@ -19037,6 +19075,7 @@
     "F5iyN8ApuZf9U_Z1PMqLcJrExye": {
         "authorTime": 24618,
         "campaign": "Snow Discovery",
+        "campaignIndex": 13,
         "custom": null,
         "name": "BobLover",
         "reason": null,
@@ -19047,6 +19086,7 @@
     "GXY3_DkrkGSceiut44HOz8LJP52": {
         "authorTime": 67171,
         "campaign": "Snow Discovery",
+        "campaignIndex": 14,
         "custom": null,
         "name": "SummerSnow",
         "reason": null,
@@ -19057,6 +19097,7 @@
     "HGSCrK2nwP2Eh832FcLchg2mlb1": {
         "authorTime": 24024,
         "campaign": "Rally Discovery",
+        "campaignIndex": 0,
         "custom": null,
         "name": "RallyIsBack",
         "reason": null,
@@ -19067,6 +19108,7 @@
     "xilvEhY102bUWPfViuA5L3R2Kkf": {
         "authorTime": 16182,
         "campaign": "Rally Discovery",
+        "campaignIndex": 1,
         "custom": null,
         "name": "RallyB1 Reloaded",
         "reason": null,
@@ -19077,6 +19119,7 @@
     "8GlfeTOKo8a6nR4Odck6hkR1QZj": {
         "authorTime": 25822,
         "campaign": "Rally Discovery",
+        "campaignIndex": 2,
         "custom": null,
         "name": "BumpyRally",
         "reason": null,
@@ -19087,6 +19130,7 @@
     "Bm8fJqCkEQ5mcGpGGKrii14wUqk": {
         "authorTime": 26395,
         "campaign": "Rally Discovery",
+        "campaignIndex": 3,
         "custom": null,
         "name": "CastleWall",
         "reason": null,
@@ -19097,6 +19141,7 @@
     "IhErO1M1iVnixXq3NApG0RcDcnh": {
         "authorTime": 26431,
         "campaign": "Rally Discovery",
+        "campaignIndex": 4,
         "custom": null,
         "name": "GrippyRally",
         "reason": null,
@@ -19107,6 +19152,7 @@
     "61Cb4gy3SfeyBKw_j7Se_dyTBQ5": {
         "authorTime": 29215,
         "campaign": "Rally Discovery",
+        "campaignIndex": 5,
         "custom": null,
         "name": "NightWatch",
         "reason": null,
@@ -19117,6 +19163,7 @@
     "XezcEHaLwsg_fnoLjEFNznnDpw4": {
         "authorTime": 26754,
         "campaign": "Rally Discovery",
+        "campaignIndex": 6,
         "custom": null,
         "name": "NewSlopes",
         "reason": null,
@@ -19127,6 +19174,7 @@
     "7S_oNjIByPmiGntUVZMELyZ14P3": {
         "authorTime": 30671,
         "campaign": "Rally Discovery",
+        "campaignIndex": 7,
         "custom": null,
         "name": "GreenStage",
         "reason": null,
@@ -19137,6 +19185,7 @@
     "Q471TU01FyT9VV1FdjGXtfretZk": {
         "authorTime": 26807,
         "campaign": "Rally Discovery",
+        "campaignIndex": 8,
         "custom": null,
         "name": "RallyC1 Reloaded",
         "reason": null,
@@ -19147,6 +19196,7 @@
     "JaUjuuasJ8RL4gyrMhig4uEwBPa": {
         "authorTime": 57103,
         "campaign": "Rally Discovery",
+        "campaignIndex": 9,
         "custom": null,
         "name": "2laps2cars",
         "reason": null,
@@ -19157,6 +19207,7 @@
     "VKOlGdlgC7OgToUFIao5co59EH1": {
         "authorTime": 30243,
         "campaign": "Rally Discovery",
+        "campaignIndex": 10,
         "custom": null,
         "name": "Ralleigh",
         "reason": null,
@@ -19167,6 +19218,7 @@
     "o3D8x7IWMKVgTzhsiyjqmGgbzN3": {
         "authorTime": 34682,
         "campaign": "Rally Discovery",
+        "campaignIndex": 11,
         "custom": null,
         "name": "Dirt2024",
         "reason": null,
@@ -19177,6 +19229,7 @@
     "ckjTde14KsIc2cHxGlXK75AgQOb": {
         "authorTime": 32398,
         "campaign": "Rally Discovery",
+        "campaignIndex": 12,
         "custom": null,
         "name": "RallyOnRoad",
         "reason": null,
@@ -19187,6 +19240,7 @@
     "iZCoRIkKAc14rTJRCBjrV6vDBkf": {
         "authorTime": 38038,
         "campaign": "Rally Discovery",
+        "campaignIndex": 13,
         "custom": null,
         "name": "TransforMania",
         "reason": null,
@@ -19197,6 +19251,7 @@
     "Du_OOTkcbUalZmS7s79ZUkikVF6": {
         "authorTime": 28585,
         "campaign": "Rally Discovery",
+        "campaignIndex": 14,
         "custom": null,
         "name": "DeepEase",
         "reason": null,
@@ -19207,6 +19262,7 @@
     "bWVms5_bPiwl3H3bNYl07LvM4J6": {
         "authorTime": 43283,
         "campaign": "Rally Discovery",
+        "campaignIndex": 15,
         "custom": null,
         "name": "ClassicRally",
         "reason": null,
@@ -19217,6 +19273,7 @@
     "3EkrdohP6AJCEzxHJU6uvCQBTec": {
         "authorTime": 42732,
         "campaign": "Rally Discovery",
+        "campaignIndex": 16,
         "custom": null,
         "name": "Radium",
         "reason": null,
@@ -19227,6 +19284,7 @@
     "QRd2bKEn4YKh1UxbOEnKMCuEGO6": {
         "authorTime": 44644,
         "campaign": "Rally Discovery",
+        "campaignIndex": 17,
         "custom": null,
         "name": "WetRally",
         "reason": null,
@@ -19237,6 +19295,7 @@
     "IuCucvPFLp52uJZIRqflo3sbYvb": {
         "authorTime": 37957,
         "campaign": "Rally Discovery",
+        "campaignIndex": 18,
         "custom": null,
         "name": "FrostyMorning",
         "reason": null,
@@ -19247,6 +19306,7 @@
     "l7IW0BUowKNjYrlGXJyA_KpRPae": {
         "authorTime": 39899,
         "campaign": "Rally Discovery",
+        "campaignIndex": 19,
         "custom": null,
         "name": "Rastic",
         "reason": null,
@@ -19257,6 +19317,7 @@
     "PBDgf2SRll910V3uVWNbLTdnPTh": {
         "authorTime": 41421,
         "campaign": "Rally Discovery",
+        "campaignIndex": 20,
         "custom": null,
         "name": "Offroad",
         "reason": null,
@@ -19267,6 +19328,7 @@
     "nmMTbUlWA4W1Gu1VkUPBneYC6z2": {
         "authorTime": 55000,
         "campaign": "Rally Discovery",
+        "campaignIndex": 21,
         "custom": null,
         "name": "MixedStage",
         "reason": null,
@@ -19277,6 +19339,7 @@
     "22YV1ObuEvAlIEpJdc8fBun0lfl": {
         "authorTime": 56656,
         "campaign": "Rally Discovery",
+        "campaignIndex": 22,
         "custom": null,
         "name": "Snolly",
         "reason": null,
@@ -19287,6 +19350,7 @@
     "9RGxBYGb8VHrIlFrqlxLUOdYRZ6": {
         "authorTime": 38698,
         "campaign": "Rally Discovery",
+        "campaignIndex": 23,
         "custom": null,
         "name": "IAmSpeed2",
         "reason": null,
@@ -19297,6 +19361,7 @@
     "tnNJA5BXhWlAhEGjIciOp9DsHWd": {
         "authorTime": 204123,
         "campaign": "Rally Discovery",
+        "campaignIndex": 24,
         "custom": null,
         "name": "PowerStage",
         "reason": null,
@@ -19307,6 +19372,7 @@
     "xzY9JKSrP9Wg3qGrunyllyu4fUf": {
         "authorTime": 24771,
         "campaign": "Desert Discovery",
+        "campaignIndex": 0,
         "custom": null,
         "name": "DesertIsBack",
         "reason": null,
@@ -19317,6 +19383,7 @@
     "O4aWriFTlMtENwKofv2f0BGuCCi": {
         "authorTime": 26055,
         "campaign": "Desert Discovery",
+        "campaignIndex": 1,
         "custom": null,
         "name": "PlatformJourney",
         "reason": null,
@@ -19327,6 +19394,7 @@
     "ZcracoVBcAu_ldBATdSLtZnwSJ8": {
         "authorTime": 18439,
         "campaign": "Desert Discovery",
+        "campaignIndex": 2,
         "custom": null,
         "name": "Wiggle",
         "reason": null,
@@ -19337,6 +19405,7 @@
     "HFbt01ySp2kPnmK5kDzEIoutYwe": {
         "authorTime": 35841,
         "campaign": "Desert Discovery",
+        "campaignIndex": 3,
         "custom": null,
         "name": "DesertOnRoad",
         "reason": null,
@@ -19347,6 +19416,7 @@
     "P8grKUznYVAgi1U3lKo9m3t8OR2": {
         "authorTime": 29958,
         "campaign": "Desert Discovery",
+        "campaignIndex": 4,
         "custom": null,
         "name": "Originals",
         "reason": null,
@@ -19357,6 +19427,7 @@
     "kBeoGmgo1bqygFui5JGL6MQxlhl": {
         "authorTime": 26380,
         "campaign": "Desert Discovery",
+        "campaignIndex": 5,
         "custom": null,
         "name": "NewLoops",
         "reason": null,
@@ -19367,6 +19438,7 @@
     "dBvRKMP0Yg4rWiXYT0hRqRDBWP7": {
         "authorTime": 32972,
         "campaign": "Desert Discovery",
+        "campaignIndex": 6,
         "custom": null,
         "name": "DesertC1Reloaded",
         "reason": null,
@@ -19377,6 +19449,7 @@
     "v1LuD_AGWG3xU8kMzFH6wIzSvd2": {
         "authorTime": 18655,
         "campaign": "Desert Discovery",
+        "campaignIndex": 7,
         "custom": null,
         "name": "A08Lover",
         "reason": null,
@@ -19387,6 +19460,7 @@
     "KxzNBXNEtZhW3UBow4oHoziA3Gf": {
         "authorTime": 33292,
         "campaign": "Desert Discovery",
+        "campaignIndex": 8,
         "custom": null,
         "name": "DesertDirt",
         "reason": null,
@@ -19397,6 +19471,7 @@
     "wcBinsz_DydN8VB0Y41vcw3kRvc": {
         "authorTime": 50532,
         "campaign": "Desert Discovery",
+        "campaignIndex": 9,
         "custom": null,
         "name": "2Cars2Laps",
         "reason": null,
@@ -19407,6 +19482,7 @@
     "Nh1TorW3Q4ZdaXDh_oi_YAEr6E0": {
         "authorTime": 44728,
         "campaign": "Desert Discovery",
+        "campaignIndex": 10,
         "custom": null,
         "name": "GrassyDesert",
         "reason": null,
@@ -19417,6 +19493,7 @@
     "MfBIJrSNereFEJD0B3VSsIXTnp2": {
         "authorTime": 41742,
         "campaign": "Desert Discovery",
+        "campaignIndex": 11,
         "custom": null,
         "name": "DesTech",
         "reason": null,
@@ -19427,6 +19504,7 @@
     "aQPGV2uHsqSZSuSlXvwxeNCKU0e": {
         "authorTime": 39372,
         "campaign": "Desert Discovery",
+        "campaignIndex": 12,
         "custom": null,
         "name": "DesertCastle",
         "reason": null,
@@ -19437,6 +19515,7 @@
     "ve5XEfkftLwJYjDwAhFCAYb7cgg": {
         "authorTime": 42053,
         "campaign": "Desert Discovery",
+        "campaignIndex": 13,
         "custom": null,
         "name": "Plasert",
         "reason": null,
@@ -19447,6 +19526,7 @@
     "TgjzqTC6qjqcIsOGsHqFJbjhy43": {
         "authorTime": 41455,
         "campaign": "Desert Discovery",
+        "campaignIndex": 14,
         "custom": null,
         "name": "Dice",
         "reason": null,
@@ -19457,6 +19537,7 @@
     "QmNwqDRyYlggRMraH5kSET2_JA5": {
         "authorTime": 44738,
         "campaign": "Desert Discovery",
+        "campaignIndex": 15,
         "custom": null,
         "name": "WoodyDesert",
         "reason": null,
@@ -19467,6 +19548,7 @@
     "7d54WAjpiwZqs9bld1Q8tJvLsii": {
         "authorTime": 45526,
         "campaign": "Desert Discovery",
+        "campaignIndex": 16,
         "custom": null,
         "name": "Narrow",
         "reason": null,
@@ -19477,6 +19559,7 @@
     "s5hzSABb5TADEqpeIxyzIEf_zmj": {
         "authorTime": 45414,
         "campaign": "Desert Discovery",
+        "campaignIndex": 17,
         "custom": null,
         "name": "AmericanSpeed",
         "reason": null,
@@ -19487,6 +19570,7 @@
     "5mfPYLOvs1kGeVhbJMSBrtmITU1": {
         "authorTime": 32621,
         "campaign": "Desert Discovery",
+        "campaignIndex": 18,
         "custom": null,
         "name": "Halfpipes",
         "reason": null,
@@ -19497,6 +19581,7 @@
     "bGM9cN_zL72SA471A6ucRYta0Q3": {
         "authorTime": 43188,
         "campaign": "Desert Discovery",
+        "campaignIndex": 19,
         "custom": null,
         "name": "DesertCity",
         "reason": null,
@@ -19507,6 +19592,7 @@
     "5uAJUkSane6DkjVOzIf8hLuPt_h": {
         "authorTime": 48915,
         "campaign": "Desert Discovery",
+        "campaignIndex": 20,
         "custom": null,
         "name": "WetDesert",
         "reason": null,
@@ -19517,6 +19603,7 @@
     "UVFFodi3yHv3SxpBT7Ylf31XhV": {
         "authorTime": 44758,
         "campaign": "Desert Discovery",
+        "campaignIndex": 21,
         "custom": null,
         "name": "2Wheelers",
         "reason": null,
@@ -19527,6 +19614,7 @@
     "ZXGBx5tWeHdQNwGzT2HG79hte6m": {
         "authorTime": 59462,
         "campaign": "Desert Discovery",
+        "campaignIndex": 22,
         "custom": null,
         "name": "DesertLeague",
         "reason": null,
@@ -19537,6 +19625,7 @@
     "ujHQhw95Lrct1A6oyFEqSU0QcYc": {
         "authorTime": 48754,
         "campaign": "Desert Discovery",
+        "campaignIndex": 23,
         "custom": null,
         "name": "DeseRPG",
         "reason": null,
@@ -19547,6 +19636,7 @@
     "uV5dbR7b0mgk6JUGYM1wjzlkmw9": {
         "authorTime": 171807,
         "campaign": "Desert Discovery",
+        "campaignIndex": 24,
         "custom": null,
         "name": "DesertMaster",
         "reason": null,
